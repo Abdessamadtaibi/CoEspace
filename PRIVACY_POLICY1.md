@@ -2,7 +2,7 @@
 
 **Last updated: February 01, 2026**
 
-Co-Espace ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by Co-Espace.
+Co-Espace ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by UFootball.
 
 ## 1. Information We Collect
 We collect information to provide better services to all our users. The types of information we collect include:
